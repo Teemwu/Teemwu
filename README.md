@@ -1,5 +1,5 @@
 ### What's this 🤔
-![cat](lsnjZGEn2pjOwzBN8gAUll7kCUA7de1E.gif)
+![cat](https://github.com/Teemwu/Teemwu/blob/master/lsnjZGEn2pjOwzBN8gAUll7kCUA7de1E.gif?raw=true)
 
 <!--**Teemwu/Teemwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
